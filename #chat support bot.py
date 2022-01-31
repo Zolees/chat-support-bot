@@ -39,3 +39,14 @@ while ans:
       ans = None
     else:
        print("\n Not Valid Choice Try again")
+       
+       #credits: the one and only Barolowl menu designer with the help of stackoverflow
+
+       #special thanks to a friend for helping making the input command ideas for users to typr out there output
+       
+       
+       
+       
+       
+       
+#this was built to help websites and developers to make a simple menu support bot with simple outputs
