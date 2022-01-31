@@ -1,4 +1,4 @@
-#baybombers support bot 
+#support bot 
 
 #please note: this software is still in beta
 
